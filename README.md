@@ -1,15 +1,31 @@
 # Project03-JuicyBreakout
 
-# Project Name
-Context and date
+# BREAKOUT
+Project 3, 5/1/2025
 
 Description
+A three level brick breaker game.
 
 ## Implementation
-Which features you included
+- Main menu music
+- SFX (hitting the paddle, breaking bricks, buttons, death, end screen)
+- screen shake when hitting objects
+- comet trail on ball
+- explosion effect when breaking bricks
+- brick's appreance and disappearance are animated
+- moving obstacles on levels 2 and 3
+- paddle changes color when hit
+- new fonts for main menu and end screen
+- custom sprites for paddle, blocks, and obstacles
+- eyes on the paddle which track the ball
 
 ## References
+ * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+ * [League Spartan Typeface](https://www.theleagueofmoveabletype.com/league-spartan?style=bold)
+ * [Blackout Typeface](https://www.theleagueofmoveabletype.com/blackout)
 
 ## Future Development
+Power ups, making obstacles more interactable, animated backgrounds
 
 ## Created by
+Ainsley Lukasik

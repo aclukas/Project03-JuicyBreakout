@@ -23,6 +23,7 @@ A three level brick breaker game.
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [League Spartan Typeface](https://www.theleagueofmoveabletype.com/league-spartan?style=bold)
  * [Blackout Typeface](https://www.theleagueofmoveabletype.com/blackout)
+ * [Free Smoke Fx Pixel 2](https://bdragon1727.itch.io/free-smoke-fx-pixel-2)
 
 ## Future Development
 Power ups, making obstacles more interactable, animated backgrounds
